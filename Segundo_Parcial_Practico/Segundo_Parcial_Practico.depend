@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1713372061 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\src\informe.cpp
+	"informe.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371351 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\include\informe.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372487 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<algorithm>
+	<iomanip>
+
+1713372487 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1713371466 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\main.cpp
+	<iostream>
+	"usuario.h"
+	"catalogos.h"
+	"informe.h"
+
+1713372487 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\include\catalogos.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713372572 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\segundo parcial\segundo_parcial_practico\src\catalogos.cpp
+	"catalogos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
